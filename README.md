@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/priyasethu/Space%20Game%20-%20Web/_apis/build/status%2FPiyo1988.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/priyasethu/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
